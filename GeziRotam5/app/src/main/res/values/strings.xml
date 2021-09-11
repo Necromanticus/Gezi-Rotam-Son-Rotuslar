@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeziRotam</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="base_url">https://maps.googleapis.com</string>
+    <string name="api_key">KENDİ APİ KEYİNİ GİR</string>
+    <string name="title_activity_maps_activitydeneme">MapsActivitydeneme</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="banks">Banks</string>
+    <string name="schools">Schools</string>
+    <string name="hotels">Hotels</string>
+    <string name="search">Search</string>
+
+
+</resources>
