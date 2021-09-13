@@ -61,7 +61,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
     private lateinit var locationListener : LocationListener
     private var currentMarker : Marker? = null
 
-//https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=40.983013,28.810269&radius=1500&type=restaurant&key=AIzaSyDxsPg7-OCYmLXd4nL5usNJLFOFRgXP7ZE"
+
 
     lateinit var newUserLocation: LatLng
 
